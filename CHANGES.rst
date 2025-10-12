@@ -23,13 +23,13 @@ Changes
 0.1.0 (2025-10-15)
 ------------------
 
-* **NetCDF Support**: The ``datacube`` function can now create data cubes directly from NetCDF files.
-* **GRIB2 Support**: The ``datacube`` function can now create data cubes directly from GRIB2 files.
+* **NetCDF Support**: The ``data_cube`` function can now create data cubes directly from NetCDF files.
+* **GRIB2 Support**: The ``data_cube`` function can now create data cubes directly from GRIB2 files.
 * **SAMeT Daily**: Added full support for SAMeT Daily data. 🛰️
-* **Function Update**: Updated the ``get_timeseries_datacube`` function to align with new NetCDF and remote file capabilities.
+* **Function Update**: Updated the ``get_timeseries_data_cube`` function to align with new NetCDF and remote file capabilities.
 * **MERGE Daily**: Added full support for MERGE Daily Precipitation data. 🛰️
 * **New Notebooks**: Added several example notebooks:
     * ``fhws_samet.ipynb``: An example for creating an SAMeT Daily data cube.
-    * ``fhws_samet.ipynb``: An example for creating a prec Merge daily data cube.
+    * ``fhws_merge.ipynb``: An example for creating a prec Merge daily data cube.
 * **COG Support**: Added support for reading Cloud Optimized GeoTIFFs (COGs) with RasterIO, allowing data cube creation without downloading the images. 🛰️
-* **Initial Release**: First implementation of ``datacube`` function.
+* **Initial Release**: First implementation of ``data_cube`` function.

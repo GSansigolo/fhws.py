@@ -56,9 +56,7 @@ About
 
 Forecast and historical weather data comprehend a group of data, such as Land Surface Temperature (LST), meteorological data and historical Enhanced Transparency Framework (ETF) data. These data are composed of satellite thermal bands (MODIS, AVHRR, GOES), weather models/reanalysis (ERA5, GFS) and climatology (10-20 years of previous data).
 
-Called Forecast and Historical Weather Service  (FHWS) the software extracts climate data from big EO data collections. It can be (i) cumulative precipitation, (ii) precipitation - daily, (iii) temperature - daily and (iv) climate change projections, all of those as time series. 
-
-The fhws.py library also allow the creation of labelled multi-dimensional arrays from climate data based on INPE's data.
+Called Forecast and Historical Weather Service (FHWS) the software extracts climate data from big EO data collections. It can be (i) cumulative precipitation, (ii) precipitation - daily, (iii) temperature - daily and (iv) climate change projections, all of those as time series. The fhws.py library also allow the creation of labelled multi-dimensional arrays from climate data based on INPE's data.
 
 We created the fhws.py library from scratch to facilitate climate data analysis operations. This library was developed to be interoperable with other Python libraries, thus enabling users to integrate established libraries into their own workflows for pre- or post-processing and analysis. The fhws.py library has a group of functions, the main ones are:
 
