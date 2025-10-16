@@ -19,6 +19,10 @@
 Changes
 =======
 
+0.1.1 (2025-10-16)
+------------------
+
+* **Fix**: Fixed a bug in the ``fhws.py`` __init__, now it import the functions correctly.
 
 0.1.0 (2025-10-15)
 ------------------
