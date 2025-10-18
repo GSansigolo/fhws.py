@@ -34,7 +34,8 @@ setup(
         "fsspec==2025.9.0",
         "aiohttp==3.12.15",
         "h5netcdf==1.6.4",
-        "cfgrib==0.9.15.0"
+        "cfgrib==0.9.15.0",
+        "pystac_client==0.9.0"
     ],
     long_description = LONG_DESCRIPTION,
     setup_requires=['pytest-runner'],

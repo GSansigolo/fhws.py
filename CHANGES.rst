@@ -18,6 +18,10 @@
 
 Changes
 =======
+0.1.2 (2025-10-18)
+------------------
+
+* **Fix**: Resolved an import error with the `pystac_client` module.
 
 0.1.1 (2025-10-16)
 ------------------
