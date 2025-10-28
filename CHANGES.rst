@@ -19,7 +19,7 @@
 Changes
 =======
 
-0.2.0 (2025-10-28)
+0.2.1 (2025-10-28)
 ------------------
 
 * **Fix**: Resolved an import error with `numpy`, `rioxarray`, `shapely` and `pystac_client` modules.
