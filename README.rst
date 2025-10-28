@@ -36,7 +36,7 @@ Python Client Library for Forecast and Historical Weather Service
         :alt: Software Life Cycle
 
 
-.. image:: https://img.shields.io/github/tag/brazil-data-cube/fhws.py.svg
+.. image:: https://img.shields.io/github/tag/GSansigolo/fhws.py.svg
         :target: https://github.com/GSansigolo/fhws.py/releases
         :alt: Release
 
