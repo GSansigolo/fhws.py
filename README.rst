@@ -16,7 +16,7 @@
     along with this program. If not, see <https://www.gnu.org/licenses/gpl-3.0.html>.
 
 .. image:: docs/img/fhws_logo.png
-   :width: 350
+   :width: 320
    :align: center
    :alt: fhws logo
 
