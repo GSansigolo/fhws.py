@@ -15,7 +15,7 @@
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <https://www.gnu.org/licenses/gpl-3.0.html>.
 
-.. image:: docs/img/fhws_logo.png
+.. image:: https://github.com/GSansigolo/fhws.py/blob/main/docs/img/fhws_logo.png
    :width: 300
    :align: center
    :alt: fhws logo
