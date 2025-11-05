@@ -19,6 +19,12 @@
 Changes
 =======
 
+0.3.0 (2025-11-05)
+------------------
+
+* **New Functions**: Added `save_xarray` and `load_xarray` functions for saving and loading xarray objects to/from xarray.
+* **New Notebook**: Added ``fhws-data-cube-preciptation_save_load.ipynb`` example notebook demonstrating usage of the new save/load functions.
+
 0.2.1 (2025-10-28)
 ------------------
 
