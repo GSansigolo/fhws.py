@@ -19,7 +19,7 @@
 Changes
 =======
 
-0.3.0 (2025-11-05)
+0.3.1 (2025-11-05)
 ------------------
 
 * **New Functions**: Added `save_xarray` and `load_xarray` functions for saving and loading xarray objects to/from xarray.
