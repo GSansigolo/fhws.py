@@ -1,5 +1,5 @@
 ..
-    This file is part of Python Client Library for FHWS.
+    This file is part of Python Client Library for FWeather.
     Copyright (C) 2025 INPE.
 
     This program is free software: you can redistribute it and/or modify
@@ -23,7 +23,7 @@ Changes
 ------------------
 
 * **New Functions**: Added `save_xarray` and `load_xarray` functions for saving and loading xarray objects to/from xarray.
-* **New Notebook**: Added ``fhws-data-cube-preciptation_save_load.ipynb`` example notebook demonstrating usage of the new save/load functions.
+* **New Notebook**: Added ``fweather-data-cube-preciptation_save_load.ipynb`` example notebook demonstrating usage of the new save/load functions.
 
 0.2.1 (2025-10-28)
 ------------------
@@ -38,7 +38,7 @@ Changes
 0.1.1 (2025-10-16)
 ------------------
 
-* **Fix**: Fixed a bug in the ``fhws.py`` __init__, now it import the functions correctly.
+* **Fix**: Fixed a bug in the ``fweather`` __init__, now it import the functions correctly.
 
 0.1.0 (2025-10-15)
 ------------------
@@ -49,7 +49,7 @@ Changes
 * **Function Update**: Updated the ``get_timeseries_data_cube`` function to align with new NetCDF and remote file capabilities.
 * **MERGE Daily**: Added full support for MERGE Daily Precipitation data. 🛰️
 * **New Notebooks**: Added several example notebooks:
-    * ``fhws_samet.ipynb``: An example for creating an SAMeT Daily data cube.
-    * ``fhws_merge.ipynb``: An example for creating a prec Merge daily data cube.
+    * ``fweather_samet.ipynb``: An example for creating an SAMeT Daily data cube.
+    * ``fweather_merge.ipynb``: An example for creating a prec Merge daily data cube.
 * **COG Support**: Added support for reading Cloud Optimized GeoTIFFs (COGs) with RasterIO, allowing data cube creation without downloading the images. 🛰️
 * **Initial Release**: First implementation of ``data_cube`` function.

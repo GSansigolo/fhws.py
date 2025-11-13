@@ -1,5 +1,5 @@
 ..
-    This file is part of Python Client Library for FHWS.
+    This file is part of Python Client Library for FWeather.
     Copyright (C) 2025 INPE.
 
     This program is free software: you can redistribute it and/or modify
@@ -16,7 +16,7 @@
     along with this program. If not, see <https://www.gnu.org/licenses/gpl-3.0.html>.
 
 
-Running FHWS in the Command Line
+Running FWeather in the Command Line
 =======================================
 
 WIP

@@ -1,5 +1,5 @@
 ..
-    This file is part of Python Client Library for FHWS.
+    This file is part of Python Client Library for FWeather.
     Copyright (C) 2025 INPE.
 
     This program is free software: you can redistribute it and/or modify
@@ -19,7 +19,7 @@
 Installation
 ============
 
-``fhws.py`` depends essentially on `Requests <https://requests.readthedocs.io/en/master/>`_. Please, read the instructions below in order to install ``fhws``.
+``fweather`` depends essentially on `Requests <https://requests.readthedocs.io/en/master/>`_. Please, read the instructions below in order to install ``fweather``.
 
 
 Development Installation
@@ -27,12 +27,12 @@ Development Installation
 
 Clone the Software Repository::
 
-    git clone git@github.com:GSansigolo/fhws.git
+    git clone git@github.com:GSansigolo/fweather.git
 
 
 Go to the source code folder::
 
-    cd fhws
+    cd fweather
 
 
 Install in development mode::

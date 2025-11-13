@@ -12,14 +12,14 @@ with open(os.path.join(DIR, "README.rst"), "r") as file:
 long_description = LONG_DESCRIPTION,
 
 setup(
-    name='fhws',
+    name='fweather',
     packages=find_packages(),
     include_package_data=True,
     version = VERSION,
-    description='Python Client API for Forecast and Historical Weather Service ',
+    description='Python Client for Forecast and Weather Service ',
     author='Gabriel Sansigolo',
     author_email = "gabrielsansigolo@gmail.com",
-    url = "https://github.com/GSansigolo/fhws",
+    url = "https://github.com/GSansigolo/fweather",
     install_requires= [
         "xarray==2024.3.0",
         "tqdm==4.66.4",

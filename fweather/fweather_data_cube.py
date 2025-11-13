@@ -10,8 +10,8 @@ from shapely.geometry import box
 from pystac_client import Client
 from shapely.ops import transform
 
-from fhws.fhws_collection_get_list import collection_get_list
-from fhws.fhws_core import name_band
+from fweather.fweather_collection_get_list import collection_get_list
+from fweather.fweather_core import name_band
 
 fs = fsspec.filesystem('https')
 

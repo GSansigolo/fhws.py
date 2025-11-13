@@ -2,7 +2,7 @@ import os
 from json import load
 from shapely.geometry import shape
 
-from fhws.fhws_core import geometry_collides_with_bbox
+from fweather.fweather_core import geometry_collides_with_bbox
 
 
 def filter_scenes(collection, data_dir, bbox):
