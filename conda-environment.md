@@ -22,3 +22,4 @@ conda install -c conda-forge h5netcdf=1.6.4 -y
 conda install -c conda-forge cfgrib=0.9.15.0 -y
 conda install -c conda-forge pystac-client -y
 conda install -c conda-forge build -y
+conda install -c conda-forge matplotlib -y
